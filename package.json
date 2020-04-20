@@ -1,0 +1,23 @@
+{
+  "name": "fp-architecture-patterns",
+  "version": "1.0.0",
+  "description": "FP architecture patterns exercises",
+  "main": "index.js",
+  "author": "alan campora",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "immutable": "^4.0.0-rc.12",
+    "immutable-ext": "^1.1.5",
+    "jest": "^25.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "add": "^2.0.6",
+    "babel-jest": "^25.3.0",
+    "yarn": "^1.22.4"
+  }
+}
